@@ -1,1 +1,1 @@
-# github-finder
+# type-ahead
